@@ -16,10 +16,13 @@ This project lets users **Add**, **Edit**, and **Delete** calendar events in a c
 
 
 ### ➕ Add Event Modal
-![Add Event Modal](screenshots/screen2.png)
+![Add Event Modal]
+<img width="1920" height="1000" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9ee23a3b-0973-4d3c-885d-b9837a946c1c" />
+
 
 ### ✏️ Edit Event Modal
-![Edit Event Modal](screenshots/screen3.png)
+![Edit Event Modal]<img width="1920" height="1025" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/7b974b33-473c-46cd-b99b-eb5fffa235b2" />
+
 
 ---
 
@@ -54,9 +57,7 @@ This project lets users **Add**, **Edit**, and **Delete** calendar events in a c
 ├── /screenshots # Screenshots for documentation
 └── README.md # You're reading this file
 
-
 ---
-
 ## How to Run Locally
 
 Clone the repository:
