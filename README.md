@@ -12,7 +12,8 @@ This project lets users **Add**, **Edit**, and **Delete** calendar events in a c
 > Replace the below paths with your actual uploaded screenshot names
 
 ### ✅ Main Calendar View
-![Calendar View](screenshots/screen1.png)
+![Calendar View]<img width="1920" height="1009" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/533c4f48-bfcb-4be7-b0f5-9f896605f49a" />
+
 
 ### ➕ Add Event Modal
 ![Add Event Modal](screenshots/screen2.png)
